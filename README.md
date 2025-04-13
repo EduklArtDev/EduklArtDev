@@ -47,7 +47,7 @@ Se curtir meu trampo, siga.
 Se quiser trocar ideia, tamo junto.  
 Se só leu até aqui, já valeu: você **tirou tempo de si para mim** — e isso é respeito.
 
-No maximo respeito, valeu!
+No máximo respeito, valeu!
 
 ---
 
