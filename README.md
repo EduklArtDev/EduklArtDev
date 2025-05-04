@@ -50,6 +50,27 @@ Se só leu até aqui, já valeu: você **tirou tempo de si para mim** — e isso
 No máximo respeito, valeu!
 
 ---
+## 🌐 Chama
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-santucci)
+- 🌎 [Portfólio](https://eduklartdev.github.io/pt/)
+- 📧 E-mail: [eduardo.santucci@pm.me](mailto:eduardo.santucci@pm.me)
+
+## 🧡 Donate com Bitcoin
+
+Se quiser me ajudar com uma doação:
+
+**Endereço BTC:**  
+`bc1qn4pekzgnaqa8whj7l2skj2kpksl2n7kkhecd99`
+
+Você também pode escanear o QR Code abaixo com sua carteira de Bitcoin:
+
+![QR Code BTC](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bitcoin:bc1qn4pekzgnaqa8whj7l2skj2kpksl2n7kkhecd99)
+
+---
+
+Obrigado pelo seu apoio! 🚀
+
 
 > "Obrigado. Vida simples. Código limpo. Foco no essencial."
 
