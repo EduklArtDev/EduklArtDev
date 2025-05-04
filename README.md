@@ -56,6 +56,8 @@ No máximo respeito, valeu!
 - 🌎 [Portfólio](https://eduklartdev.github.io/pt/)
 - 📧 E-mail: [eduardo.santucci@pm.me](mailto:eduardo.santucci@pm.me)
 
+---
+
 ## 🧡 Donate com Bitcoin
 
 Se quiser me ajudar com uma doação:
