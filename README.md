@@ -63,7 +63,7 @@ Se quiser me ajudar com uma doação:
 **Endereço BTC:**  
 `bc1qn4pekzgnaqa8whj7l2skj2kpksl2n7kkhecd99`
 
-Você também pode escanear o QR Code abaixo com sua carteira de Bitcoin:
+QR code pode facilitar:
 
 ![QR Code BTC](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bitcoin:bc1qn4pekzgnaqa8whj7l2skj2kpksl2n7kkhecd99)
 
