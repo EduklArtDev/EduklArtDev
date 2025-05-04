@@ -63,7 +63,7 @@ No máximo respeito, valeu!
 Se quiser me ajudar com uma doação:
 
 **Endereço BTC:**  
-`bc1qn4pekzgnaqa8whj7l2skj2kpksl2n7kkhecd99`
+![Donate BTC](https://img.shields.io/badge/BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) `bc1qn4pekzgnaqa8whj7l2skj2kpksl2n7kkhecd99`
 
 QR code pode facilitar:
 
